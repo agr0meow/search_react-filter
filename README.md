@@ -5,7 +5,7 @@
 
 <p>
 <img src="https://i.ibb.co/k3rWh50/image.png">  
-<img src="https://i.ibb.co/L9BgbVB/image.png">  
+<img src="https://i.ibb.co/L9BgbVB/image.png" width = "400px">  
   </p>
 
 ## Разработчик
